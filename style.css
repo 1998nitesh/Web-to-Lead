@@ -21,7 +21,7 @@ input {
 }
 
 .submit {
-    margin: 15px auto 0 auto;
+    margin: 0 auto 0 auto;
     width: 40%;
     background-color: rgb(133, 88, 175);
 }
@@ -35,7 +35,7 @@ form {
 }
 
 .g-recaptcha {
-    margin-top: 15px auto 15px auto;
+    margin-top: 15px;
     display: flex;
     justify-content: center;
 }
